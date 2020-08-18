@@ -1,0 +1,3 @@
+[submodule "resources/deep-graph-lib"]
+	path = resources/deep-graph-lib
+	url = https://github.com/dmlc/dgl.git
